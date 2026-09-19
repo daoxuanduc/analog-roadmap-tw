@@ -1,0 +1,11 @@
+# Large binary files & textbooks
+*.pdf
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+.idea/
+.vscode/
