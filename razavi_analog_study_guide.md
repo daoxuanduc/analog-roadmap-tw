@@ -76,7 +76,7 @@ Trong chuỗi bài giảng *Electronics 1*, từ bài 1 đến bài 28 là Diode
 
 | Check | STT | Tên Video bài giảng (YouTube) | Link xem trực tiếp | Đọc sách *Design of Analog CMOS* | Trọng tâm cốt lõi cần nắm |
 | :---: | :---: | :--- | :---: | :--- | :--- |
-| [ ] | **01** | **Lec 29: Intro. to MOSFETs** | [Xem Lec 29](https://www.youtube.com/results?search_query=Razavi+Electronics+1+Lec+29+Intro+to+MOSFETs) | **Mục 2.1 & 2.2** | Cấu tạo 4 cực (G, D, S, B), điện áp ngưỡng $V_{th}$ là gì? |
+| [x] | **01** | **Lec 29: Intro. to MOSFETs** | [Xem Lec 29](https://www.youtube.com/results?search_query=Razavi+Electronics+1+Lec+29+Intro+to+MOSFETs) | **Mục 2.1 & 2.2** | Cấu tạo 4 cực (G, D, S, B), điện áp ngưỡng $V_{th}$ là gì? |
 | [ ] | **02** | **Lec 30: MOS Characteristics I** | [Xem Lec 30](https://www.youtube.com/results?search_query=Razavi+Electronics+1+Lec+30+MOS+Characteristics+I) | **Mục 2.3** | Đặc tuyến I-V. Điều kiện vào vùng Triode vs Saturation ($V_{DS} \ge V_{GS} - V_{th}$). |
 | [ ] | **03** | **Lec 31: MOS Characteristics II** | [Xem Lec 31](https://www.youtube.com/results?search_query=Razavi+Electronics+1+Lec+31+MOS+Characteristics+II) | **Mục 2.4.1** | Điều chế độ dài kênh ($\lambda$) $\rightarrow$ Trở kháng ra hữu hạn $r_o = \frac{1}{\lambda I_D}$. |
 | [ ] | **04** | **Lec 32: Biasing, Transconductance** | [Xem Lec 32](https://www.youtube.com/results?search_query=Razavi+Electronics+1+Lec+32+Biasing+Transconductance) | **Mục 2.4.2** | **Độ hỗ dẫn $g_m$** (vũ khí cốt lõi để tính Gain mạch khuếch đại). |
